@@ -1,0 +1,54 @@
+
+apply plugin: 'java'
+
+task "create-dirs" << {
+   sourceSets*.java.srcDirs*.each { it.mkdirs() }
+   sourceSets*.resources.srcDirs*.each { it.mkdirs() }
+}
+
+
+/*
+//for download git
+apply plugin: 'git-dependencies'
+*/
+project.ext{
+	/*
+    //for download git
+	project.gitDependenciesDir=new File(project.projectDir.path,'git-dependencies')
+	*/
+}
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+		/*
+		//for download git
+        classpath 'org.batcha.gradle.plugins:git-dependencies:0.1'
+		*/
+    }
+}
+
+repositories {
+        mavenCentral()
+}
+	
+dependencies {
+  /*
+  for download git
+  compile('jcabi-github:jcabi-github:1.0').ext.git = 'https://github.com/YamStranger/jcabi-github.git'
+  */
+   compile('com.jcabi:jcabi-github:0.22')
+   compile('com.jcabi:jcabi-github:0.22:sources')
+   
+  //compile fileTree(dir: project.projectDir.path.concat('git-dependencies/jcabi-github/target'), includes: ['*.jar'])
+}
+
+task copyDeps(type: Copy) {
+  from configurations.runtime
+  into project.projectDir.path+'/lib'
+}
+compileJava {
+	dependsOn 'copyDeps'
+}
