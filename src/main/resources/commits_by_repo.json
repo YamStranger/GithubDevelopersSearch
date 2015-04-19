@@ -1,0 +1,2116 @@
+[    {
+        "sha": "c2abcc4868bb47909696c6a42c606de34e83ef70",
+        "commit": {
+            "author": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2012-05-25T22:03:29Z"
+            },
+            "committer": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2012-05-25T22:03:29Z"
+            },
+            "message": "bert 1.1.6",
+            "tree": {
+                "sha": "c9a7e79961fc51d2a7bb6580172c82c04837caad",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/c9a7e79961fc51d2a7bb6580172c82c04837caad"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/c2abcc4868bb47909696c6a42c606de34e83ef70",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/c2abcc4868bb47909696c6a42c606de34e83ef70",
+        "html_url": "https://github.com/mojombo/bert/commit/c2abcc4868bb47909696c6a42c606de34e83ef70",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/c2abcc4868bb47909696c6a42c606de34e83ef70/comments",
+        "author": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "committer": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "parents": [
+            {
+                "sha": "363155d4febef2a8ff8329f9c74d1f982cea5ddd",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/363155d4febef2a8ff8329f9c74d1f982cea5ddd",
+                "html_url": "https://github.com/mojombo/bert/commit/363155d4febef2a8ff8329f9c74d1f982cea5ddd"
+            }
+        ]
+    },
+    {
+        "sha": "363155d4febef2a8ff8329f9c74d1f982cea5ddd",
+        "commit": {
+            "author": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2011-12-17T03:40:05Z"
+            },
+            "committer": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2011-12-17T03:40:05Z"
+            },
+            "message": "removing trailing whitespace /cc @schmurfy",
+            "tree": {
+                "sha": "49428521196476c7f521fc2dd992eb347eea5d63",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/49428521196476c7f521fc2dd992eb347eea5d63"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/363155d4febef2a8ff8329f9c74d1f982cea5ddd",
+            "comment_count": 1
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/363155d4febef2a8ff8329f9c74d1f982cea5ddd",
+        "html_url": "https://github.com/mojombo/bert/commit/363155d4febef2a8ff8329f9c74d1f982cea5ddd",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/363155d4febef2a8ff8329f9c74d1f982cea5ddd/comments",
+        "author": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "committer": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "parents": [
+            {
+                "sha": "ff03a686650d9c89582b637a47b61ec34c48ae02",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/ff03a686650d9c89582b637a47b61ec34c48ae02",
+                "html_url": "https://github.com/mojombo/bert/commit/ff03a686650d9c89582b637a47b61ec34c48ae02"
+            }
+        ]
+    },
+    {
+        "sha": "ff03a686650d9c89582b637a47b61ec34c48ae02",
+        "commit": {
+            "author": {
+                "name": "Julien Ammous",
+                "email": "schmurfy@gmail.com",
+                "date": "2011-12-16T11:35:28Z"
+            },
+            "committer": {
+                "name": "Julien Ammous",
+                "email": "schmurfy@gmail.com",
+                "date": "2011-12-16T11:35:28Z"
+            },
+            "message": "fixed encoding for utf8 string in ruby 1.9",
+            "tree": {
+                "sha": "3d966688067656edcb5795cf1a812260f761bc3e",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/3d966688067656edcb5795cf1a812260f761bc3e"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/ff03a686650d9c89582b637a47b61ec34c48ae02",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/ff03a686650d9c89582b637a47b61ec34c48ae02",
+        "html_url": "https://github.com/mojombo/bert/commit/ff03a686650d9c89582b637a47b61ec34c48ae02",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/ff03a686650d9c89582b637a47b61ec34c48ae02/comments",
+        "author": {
+            "login": "schmurfy",
+            "id": 2983,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2983?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/schmurfy",
+            "html_url": "https://github.com/schmurfy",
+            "followers_url": "https://api.github.com/users/schmurfy/followers",
+            "following_url": "https://api.github.com/users/schmurfy/following{/other_user}",
+            "gists_url": "https://api.github.com/users/schmurfy/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/schmurfy/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/schmurfy/subscriptions",
+            "organizations_url": "https://api.github.com/users/schmurfy/orgs",
+            "repos_url": "https://api.github.com/users/schmurfy/repos",
+            "events_url": "https://api.github.com/users/schmurfy/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/schmurfy/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "schmurfy",
+            "id": 2983,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2983?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/schmurfy",
+            "html_url": "https://github.com/schmurfy",
+            "followers_url": "https://api.github.com/users/schmurfy/followers",
+            "following_url": "https://api.github.com/users/schmurfy/following{/other_user}",
+            "gists_url": "https://api.github.com/users/schmurfy/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/schmurfy/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/schmurfy/subscriptions",
+            "organizations_url": "https://api.github.com/users/schmurfy/orgs",
+            "repos_url": "https://api.github.com/users/schmurfy/repos",
+            "events_url": "https://api.github.com/users/schmurfy/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/schmurfy/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "5e53995248fbcdcff25c106adaf404fd4684f21e",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/5e53995248fbcdcff25c106adaf404fd4684f21e",
+                "html_url": "https://github.com/mojombo/bert/commit/5e53995248fbcdcff25c106adaf404fd4684f21e"
+            }
+        ]
+    },
+    {
+        "sha": "5e53995248fbcdcff25c106adaf404fd4684f21e",
+        "commit": {
+            "author": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2011-12-12T11:17:09Z"
+            },
+            "committer": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2011-12-12T11:17:09Z"
+            },
+            "message": "bert 1.1.5",
+            "tree": {
+                "sha": "3fd81da2a383ba449c59f2efd3de6ac422222606",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/3fd81da2a383ba449c59f2efd3de6ac422222606"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/5e53995248fbcdcff25c106adaf404fd4684f21e",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/5e53995248fbcdcff25c106adaf404fd4684f21e",
+        "html_url": "https://github.com/mojombo/bert/commit/5e53995248fbcdcff25c106adaf404fd4684f21e",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/5e53995248fbcdcff25c106adaf404fd4684f21e/comments",
+        "author": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "committer": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "parents": [
+            {
+                "sha": "7d573cff2f592316b531ac869347a00c2b643035",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/7d573cff2f592316b531ac869347a00c2b643035",
+                "html_url": "https://github.com/mojombo/bert/commit/7d573cff2f592316b531ac869347a00c2b643035"
+            }
+        ]
+    },
+    {
+        "sha": "7d573cff2f592316b531ac869347a00c2b643035",
+        "commit": {
+            "author": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2011-12-10T11:44:04Z"
+            },
+            "committer": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2011-12-10T11:44:04Z"
+            },
+            "message": "Fix tests on ruby 1.9 (closes #13)",
+            "tree": {
+                "sha": "1ad0c5ce298b180fc9d10e34cdbb8386a58d7431",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/1ad0c5ce298b180fc9d10e34cdbb8386a58d7431"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/7d573cff2f592316b531ac869347a00c2b643035",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/7d573cff2f592316b531ac869347a00c2b643035",
+        "html_url": "https://github.com/mojombo/bert/commit/7d573cff2f592316b531ac869347a00c2b643035",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/7d573cff2f592316b531ac869347a00c2b643035/comments",
+        "author": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "committer": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "parents": [
+            {
+                "sha": "813372b2b61995ebcc129f7ae055364249d71fcb",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/813372b2b61995ebcc129f7ae055364249d71fcb",
+                "html_url": "https://github.com/mojombo/bert/commit/813372b2b61995ebcc129f7ae055364249d71fcb"
+            }
+        ]
+    },
+    {
+        "sha": "813372b2b61995ebcc129f7ae055364249d71fcb",
+        "commit": {
+            "author": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2011-12-10T11:22:12Z"
+            },
+            "committer": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2011-12-10T11:22:12Z"
+            },
+            "message": "Merge pull request #14 from dgrijalva/master\n\nFix for encoding of negative bignums",
+            "tree": {
+                "sha": "eab3fafc6b4f8e9a343911991b014591777c274b",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/eab3fafc6b4f8e9a343911991b014591777c274b"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/813372b2b61995ebcc129f7ae055364249d71fcb",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/813372b2b61995ebcc129f7ae055364249d71fcb",
+        "html_url": "https://github.com/mojombo/bert/commit/813372b2b61995ebcc129f7ae055364249d71fcb",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/813372b2b61995ebcc129f7ae055364249d71fcb/comments",
+        "author": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "committer": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "parents": [
+            {
+                "sha": "727ee16156948733de173a04526379d7f16bdf3a",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/727ee16156948733de173a04526379d7f16bdf3a",
+                "html_url": "https://github.com/mojombo/bert/commit/727ee16156948733de173a04526379d7f16bdf3a"
+            },
+            {
+                "sha": "c9a6811cc39b6fe9a3a8cf460b89eccecc9b5135",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/c9a6811cc39b6fe9a3a8cf460b89eccecc9b5135",
+                "html_url": "https://github.com/mojombo/bert/commit/c9a6811cc39b6fe9a3a8cf460b89eccecc9b5135"
+            }
+        ]
+    },
+    {
+        "sha": "727ee16156948733de173a04526379d7f16bdf3a",
+        "commit": {
+            "author": {
+                "name": "yarsanukaev",
+                "email": "yarsanukaev@gmail.com",
+                "date": "2010-10-05T10:36:04Z"
+            },
+            "committer": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2011-12-10T11:19:07Z"
+            },
+            "message": "Fix readme: complex type dictionary consisted of only 2 elements without 'bert' atom being the first element.",
+            "tree": {
+                "sha": "df2a7ba096b280f3cccd1e6b8be53f2fc9fa55df",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/df2a7ba096b280f3cccd1e6b8be53f2fc9fa55df"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/727ee16156948733de173a04526379d7f16bdf3a",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/727ee16156948733de173a04526379d7f16bdf3a",
+        "html_url": "https://github.com/mojombo/bert/commit/727ee16156948733de173a04526379d7f16bdf3a",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/727ee16156948733de173a04526379d7f16bdf3a/comments",
+        "author": {
+            "login": "yarsanukaev",
+            "id": 245192,
+            "avatar_url": "https://avatars.githubusercontent.com/u/245192?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/yarsanukaev",
+            "html_url": "https://github.com/yarsanukaev",
+            "followers_url": "https://api.github.com/users/yarsanukaev/followers",
+            "following_url": "https://api.github.com/users/yarsanukaev/following{/other_user}",
+            "gists_url": "https://api.github.com/users/yarsanukaev/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/yarsanukaev/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/yarsanukaev/subscriptions",
+            "organizations_url": "https://api.github.com/users/yarsanukaev/orgs",
+            "repos_url": "https://api.github.com/users/yarsanukaev/repos",
+            "events_url": "https://api.github.com/users/yarsanukaev/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/yarsanukaev/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "parents": [
+            {
+                "sha": "c07dbb8b3a1c94c90ec07d4b6f21f5724d1d5a89",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/c07dbb8b3a1c94c90ec07d4b6f21f5724d1d5a89",
+                "html_url": "https://github.com/mojombo/bert/commit/c07dbb8b3a1c94c90ec07d4b6f21f5724d1d5a89"
+            }
+        ]
+    },
+    {
+        "sha": "c07dbb8b3a1c94c90ec07d4b6f21f5724d1d5a89",
+        "commit": {
+            "author": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2011-12-10T11:12:33Z"
+            },
+            "committer": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2011-12-10T11:12:33Z"
+            },
+            "message": "Merge pull request #15 from tanoku/master\n\nWash the face of the C decoder",
+            "tree": {
+                "sha": "3584ca24276bef99161e6b67220b5291af5c7a07",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/3584ca24276bef99161e6b67220b5291af5c7a07"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/c07dbb8b3a1c94c90ec07d4b6f21f5724d1d5a89",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/c07dbb8b3a1c94c90ec07d4b6f21f5724d1d5a89",
+        "html_url": "https://github.com/mojombo/bert/commit/c07dbb8b3a1c94c90ec07d4b6f21f5724d1d5a89",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/c07dbb8b3a1c94c90ec07d4b6f21f5724d1d5a89/comments",
+        "author": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "committer": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "parents": [
+            {
+                "sha": "5d55823429867a8bc501a6096debd37184b605d0",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/5d55823429867a8bc501a6096debd37184b605d0",
+                "html_url": "https://github.com/mojombo/bert/commit/5d55823429867a8bc501a6096debd37184b605d0"
+            },
+            {
+                "sha": "368f3a676094b25794a53832826af42739733100",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/368f3a676094b25794a53832826af42739733100",
+                "html_url": "https://github.com/mojombo/bert/commit/368f3a676094b25794a53832826af42739733100"
+            }
+        ]
+    },
+    {
+        "sha": "368f3a676094b25794a53832826af42739733100",
+        "commit": {
+            "author": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2011-12-10T10:29:03Z"
+            },
+            "committer": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2011-12-10T10:29:03Z"
+            },
+            "message": "Fix some warnings",
+            "tree": {
+                "sha": "3584ca24276bef99161e6b67220b5291af5c7a07",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/3584ca24276bef99161e6b67220b5291af5c7a07"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/368f3a676094b25794a53832826af42739733100",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/368f3a676094b25794a53832826af42739733100",
+        "html_url": "https://github.com/mojombo/bert/commit/368f3a676094b25794a53832826af42739733100",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/368f3a676094b25794a53832826af42739733100/comments",
+        "author": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "committer": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "parents": [
+            {
+                "sha": "05344ad23172ef015ed7b9b23c23886db62036a3",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/05344ad23172ef015ed7b9b23c23886db62036a3",
+                "html_url": "https://github.com/mojombo/bert/commit/05344ad23172ef015ed7b9b23c23886db62036a3"
+            }
+        ]
+    },
+    {
+        "sha": "05344ad23172ef015ed7b9b23c23886db62036a3",
+        "commit": {
+            "author": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2011-12-10T01:06:27Z"
+            },
+            "committer": {
+                "name": "Aman Gupta",
+                "email": "aman@tmm1.net",
+                "date": "2011-12-10T01:06:27Z"
+            },
+            "message": "Treat all small ints as unsigned",
+            "tree": {
+                "sha": "60bb27e587cbac2792708d682a230a3220b4eecb",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/60bb27e587cbac2792708d682a230a3220b4eecb"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/05344ad23172ef015ed7b9b23c23886db62036a3",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/05344ad23172ef015ed7b9b23c23886db62036a3",
+        "html_url": "https://github.com/mojombo/bert/commit/05344ad23172ef015ed7b9b23c23886db62036a3",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/05344ad23172ef015ed7b9b23c23886db62036a3/comments",
+        "author": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "committer": {
+            "login": "tmm1",
+            "id": 2567,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2567?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tmm1",
+            "html_url": "https://github.com/tmm1",
+            "followers_url": "https://api.github.com/users/tmm1/followers",
+            "following_url": "https://api.github.com/users/tmm1/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tmm1/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/tmm1/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tmm1/subscriptions",
+            "organizations_url": "https://api.github.com/users/tmm1/orgs",
+            "repos_url": "https://api.github.com/users/tmm1/repos",
+            "events_url": "https://api.github.com/users/tmm1/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/tmm1/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "parents": [
+            {
+                "sha": "94c7138574b6b052ac555eb06acdd6c950d95bc8",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/94c7138574b6b052ac555eb06acdd6c950d95bc8",
+                "html_url": "https://github.com/mojombo/bert/commit/94c7138574b6b052ac555eb06acdd6c950d95bc8"
+            }
+        ]
+    },
+    {
+        "sha": "94c7138574b6b052ac555eb06acdd6c950d95bc8",
+        "commit": {
+            "author": {
+                "name": "Vicent Marti",
+                "email": "tanoku@gmail.com",
+                "date": "2011-12-09T22:09:06Z"
+            },
+            "committer": {
+                "name": "Vicent Marti",
+                "email": "tanoku@gmail.com",
+                "date": "2011-12-09T22:09:06Z"
+            },
+            "message": "User a slower Bignum decoding algorithm\n\n`rb_big_pack` is not trustworthy.",
+            "tree": {
+                "sha": "48247118541835d280cccc944714ffb3c9438184",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/48247118541835d280cccc944714ffb3c9438184"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/94c7138574b6b052ac555eb06acdd6c950d95bc8",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/94c7138574b6b052ac555eb06acdd6c950d95bc8",
+        "html_url": "https://github.com/mojombo/bert/commit/94c7138574b6b052ac555eb06acdd6c950d95bc8",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/94c7138574b6b052ac555eb06acdd6c950d95bc8/comments",
+        "author": {
+            "login": "vmg",
+            "id": 42793,
+            "avatar_url": "https://avatars.githubusercontent.com/u/42793?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/vmg",
+            "html_url": "https://github.com/vmg",
+            "followers_url": "https://api.github.com/users/vmg/followers",
+            "following_url": "https://api.github.com/users/vmg/following{/other_user}",
+            "gists_url": "https://api.github.com/users/vmg/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/vmg/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/vmg/subscriptions",
+            "organizations_url": "https://api.github.com/users/vmg/orgs",
+            "repos_url": "https://api.github.com/users/vmg/repos",
+            "events_url": "https://api.github.com/users/vmg/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/vmg/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "committer": {
+            "login": "vmg",
+            "id": 42793,
+            "avatar_url": "https://avatars.githubusercontent.com/u/42793?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/vmg",
+            "html_url": "https://github.com/vmg",
+            "followers_url": "https://api.github.com/users/vmg/followers",
+            "following_url": "https://api.github.com/users/vmg/following{/other_user}",
+            "gists_url": "https://api.github.com/users/vmg/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/vmg/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/vmg/subscriptions",
+            "organizations_url": "https://api.github.com/users/vmg/orgs",
+            "repos_url": "https://api.github.com/users/vmg/repos",
+            "events_url": "https://api.github.com/users/vmg/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/vmg/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "parents": [
+            {
+                "sha": "c24137e09c4d75f43e96c2947521eaf4c7adfa12",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/c24137e09c4d75f43e96c2947521eaf4c7adfa12",
+                "html_url": "https://github.com/mojombo/bert/commit/c24137e09c4d75f43e96c2947521eaf4c7adfa12"
+            }
+        ]
+    },
+    {
+        "sha": "c24137e09c4d75f43e96c2947521eaf4c7adfa12",
+        "commit": {
+            "author": {
+                "name": "Vicent Marti",
+                "email": "tanoku@gmail.com",
+                "date": "2011-12-09T18:33:25Z"
+            },
+            "committer": {
+                "name": "Vicent Marti",
+                "email": "tanoku@gmail.com",
+                "date": "2011-12-09T18:33:25Z"
+            },
+            "message": "Wash the face of the C decoder\n\nI washed so much that there's nothing left! :/",
+            "tree": {
+                "sha": "20417350459ecafe0d2ab6b425a613b0a1e3ba90",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/20417350459ecafe0d2ab6b425a613b0a1e3ba90"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/c24137e09c4d75f43e96c2947521eaf4c7adfa12",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/c24137e09c4d75f43e96c2947521eaf4c7adfa12",
+        "html_url": "https://github.com/mojombo/bert/commit/c24137e09c4d75f43e96c2947521eaf4c7adfa12",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/c24137e09c4d75f43e96c2947521eaf4c7adfa12/comments",
+        "author": {
+            "login": "vmg",
+            "id": 42793,
+            "avatar_url": "https://avatars.githubusercontent.com/u/42793?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/vmg",
+            "html_url": "https://github.com/vmg",
+            "followers_url": "https://api.github.com/users/vmg/followers",
+            "following_url": "https://api.github.com/users/vmg/following{/other_user}",
+            "gists_url": "https://api.github.com/users/vmg/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/vmg/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/vmg/subscriptions",
+            "organizations_url": "https://api.github.com/users/vmg/orgs",
+            "repos_url": "https://api.github.com/users/vmg/repos",
+            "events_url": "https://api.github.com/users/vmg/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/vmg/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "committer": {
+            "login": "vmg",
+            "id": 42793,
+            "avatar_url": "https://avatars.githubusercontent.com/u/42793?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/vmg",
+            "html_url": "https://github.com/vmg",
+            "followers_url": "https://api.github.com/users/vmg/followers",
+            "following_url": "https://api.github.com/users/vmg/following{/other_user}",
+            "gists_url": "https://api.github.com/users/vmg/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/vmg/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/vmg/subscriptions",
+            "organizations_url": "https://api.github.com/users/vmg/orgs",
+            "repos_url": "https://api.github.com/users/vmg/repos",
+            "events_url": "https://api.github.com/users/vmg/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/vmg/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "parents": [
+            {
+                "sha": "5d55823429867a8bc501a6096debd37184b605d0",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/5d55823429867a8bc501a6096debd37184b605d0",
+                "html_url": "https://github.com/mojombo/bert/commit/5d55823429867a8bc501a6096debd37184b605d0"
+            }
+        ]
+    },
+    {
+        "sha": "c9a6811cc39b6fe9a3a8cf460b89eccecc9b5135",
+        "commit": {
+            "author": {
+                "name": "Dave Grijalva",
+                "email": "grijalva@gmail.com",
+                "date": "2010-08-25T22:52:17Z"
+            },
+            "committer": {
+                "name": "Dave Grijalva",
+                "email": "grijalva@gmail.com",
+                "date": "2010-08-25T22:52:17Z"
+            },
+            "message": "fixed encoding of negative bignums",
+            "tree": {
+                "sha": "431843ee4ae73ed7e7a7ec302d1b2f59e3a52f9a",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/431843ee4ae73ed7e7a7ec302d1b2f59e3a52f9a"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/c9a6811cc39b6fe9a3a8cf460b89eccecc9b5135",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/c9a6811cc39b6fe9a3a8cf460b89eccecc9b5135",
+        "html_url": "https://github.com/mojombo/bert/commit/c9a6811cc39b6fe9a3a8cf460b89eccecc9b5135",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/c9a6811cc39b6fe9a3a8cf460b89eccecc9b5135/comments",
+        "author": {
+            "login": "dgrijalva",
+            "id": 23713,
+            "avatar_url": "https://avatars.githubusercontent.com/u/23713?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgrijalva",
+            "html_url": "https://github.com/dgrijalva",
+            "followers_url": "https://api.github.com/users/dgrijalva/followers",
+            "following_url": "https://api.github.com/users/dgrijalva/following{/other_user}",
+            "gists_url": "https://api.github.com/users/dgrijalva/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/dgrijalva/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/dgrijalva/subscriptions",
+            "organizations_url": "https://api.github.com/users/dgrijalva/orgs",
+            "repos_url": "https://api.github.com/users/dgrijalva/repos",
+            "events_url": "https://api.github.com/users/dgrijalva/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/dgrijalva/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "dgrijalva",
+            "id": 23713,
+            "avatar_url": "https://avatars.githubusercontent.com/u/23713?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dgrijalva",
+            "html_url": "https://github.com/dgrijalva",
+            "followers_url": "https://api.github.com/users/dgrijalva/followers",
+            "following_url": "https://api.github.com/users/dgrijalva/following{/other_user}",
+            "gists_url": "https://api.github.com/users/dgrijalva/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/dgrijalva/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/dgrijalva/subscriptions",
+            "organizations_url": "https://api.github.com/users/dgrijalva/orgs",
+            "repos_url": "https://api.github.com/users/dgrijalva/repos",
+            "events_url": "https://api.github.com/users/dgrijalva/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/dgrijalva/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "5d55823429867a8bc501a6096debd37184b605d0",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/5d55823429867a8bc501a6096debd37184b605d0",
+                "html_url": "https://github.com/mojombo/bert/commit/5d55823429867a8bc501a6096debd37184b605d0"
+            }
+        ]
+    },
+    {
+        "sha": "5d55823429867a8bc501a6096debd37184b605d0",
+        "commit": {
+            "author": {
+                "name": "PJ Hyett",
+                "email": "pjhyett@gmail.com",
+                "date": "2010-04-04T05:42:25Z"
+            },
+            "committer": {
+                "name": "PJ Hyett",
+                "email": "pjhyett@gmail.com",
+                "date": "2010-04-04T05:42:25Z"
+            },
+            "message": "Add provision for creating jruby-compatible gem",
+            "tree": {
+                "sha": "d6393cff935671edb35741cc0f9eba2584c70705",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/d6393cff935671edb35741cc0f9eba2584c70705"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/5d55823429867a8bc501a6096debd37184b605d0",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/5d55823429867a8bc501a6096debd37184b605d0",
+        "html_url": "https://github.com/mojombo/bert/commit/5d55823429867a8bc501a6096debd37184b605d0",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/5d55823429867a8bc501a6096debd37184b605d0/comments",
+        "author": {
+            "login": "pjhyett",
+            "id": 3,
+            "avatar_url": "https://avatars.githubusercontent.com/u/3?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/pjhyett",
+            "html_url": "https://github.com/pjhyett",
+            "followers_url": "https://api.github.com/users/pjhyett/followers",
+            "following_url": "https://api.github.com/users/pjhyett/following{/other_user}",
+            "gists_url": "https://api.github.com/users/pjhyett/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/pjhyett/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/pjhyett/subscriptions",
+            "organizations_url": "https://api.github.com/users/pjhyett/orgs",
+            "repos_url": "https://api.github.com/users/pjhyett/repos",
+            "events_url": "https://api.github.com/users/pjhyett/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/pjhyett/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "committer": {
+            "login": "pjhyett",
+            "id": 3,
+            "avatar_url": "https://avatars.githubusercontent.com/u/3?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/pjhyett",
+            "html_url": "https://github.com/pjhyett",
+            "followers_url": "https://api.github.com/users/pjhyett/followers",
+            "following_url": "https://api.github.com/users/pjhyett/following{/other_user}",
+            "gists_url": "https://api.github.com/users/pjhyett/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/pjhyett/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/pjhyett/subscriptions",
+            "organizations_url": "https://api.github.com/users/pjhyett/orgs",
+            "repos_url": "https://api.github.com/users/pjhyett/repos",
+            "events_url": "https://api.github.com/users/pjhyett/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/pjhyett/received_events",
+            "type": "User",
+            "site_admin": true
+        },
+        "parents": [
+            {
+                "sha": "bf343621a31247a4b4e8bfc738115978d46515dc",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/bf343621a31247a4b4e8bfc738115978d46515dc",
+                "html_url": "https://github.com/mojombo/bert/commit/bf343621a31247a4b4e8bfc738115978d46515dc"
+            }
+        ]
+    },
+    {
+        "sha": "bf343621a31247a4b4e8bfc738115978d46515dc",
+        "commit": {
+            "author": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-02-09T00:18:01Z"
+            },
+            "committer": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-02-09T00:18:01Z"
+            },
+            "message": "Regenerated gemspec for version 1.1.2",
+            "tree": {
+                "sha": "25155f3691eb7e9f0e110abfb298fcbebaef7549",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/25155f3691eb7e9f0e110abfb298fcbebaef7549"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/bf343621a31247a4b4e8bfc738115978d46515dc",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/bf343621a31247a4b4e8bfc738115978d46515dc",
+        "html_url": "https://github.com/mojombo/bert/commit/bf343621a31247a4b4e8bfc738115978d46515dc",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/bf343621a31247a4b4e8bfc738115978d46515dc/comments",
+        "author": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "651557bae328c3cadcc79875c6d7e5885084ee67",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/651557bae328c3cadcc79875c6d7e5885084ee67",
+                "html_url": "https://github.com/mojombo/bert/commit/651557bae328c3cadcc79875c6d7e5885084ee67"
+            }
+        ]
+    },
+    {
+        "sha": "651557bae328c3cadcc79875c6d7e5885084ee67",
+        "commit": {
+            "author": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-02-09T00:16:02Z"
+            },
+            "committer": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-02-09T00:16:02Z"
+            },
+            "message": "Version bump to 1.1.2",
+            "tree": {
+                "sha": "46ae8d1a97e26f7f7092cc193b89af2baba24b05",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/46ae8d1a97e26f7f7092cc193b89af2baba24b05"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/651557bae328c3cadcc79875c6d7e5885084ee67",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/651557bae328c3cadcc79875c6d7e5885084ee67",
+        "html_url": "https://github.com/mojombo/bert/commit/651557bae328c3cadcc79875c6d7e5885084ee67",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/651557bae328c3cadcc79875c6d7e5885084ee67/comments",
+        "author": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "8de07bb120650c5de00841dad1db1d5dcec86ba8",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/8de07bb120650c5de00841dad1db1d5dcec86ba8",
+                "html_url": "https://github.com/mojombo/bert/commit/8de07bb120650c5de00841dad1db1d5dcec86ba8"
+            }
+        ]
+    },
+    {
+        "sha": "8de07bb120650c5de00841dad1db1d5dcec86ba8",
+        "commit": {
+            "author": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-02-09T00:14:57Z"
+            },
+            "committer": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-02-09T00:14:57Z"
+            },
+            "message": "update history",
+            "tree": {
+                "sha": "e15d032d5c83b3f82d84f59fd866f6a3f53618ba",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/e15d032d5c83b3f82d84f59fd866f6a3f53618ba"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/8de07bb120650c5de00841dad1db1d5dcec86ba8",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/8de07bb120650c5de00841dad1db1d5dcec86ba8",
+        "html_url": "https://github.com/mojombo/bert/commit/8de07bb120650c5de00841dad1db1d5dcec86ba8",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/8de07bb120650c5de00841dad1db1d5dcec86ba8/comments",
+        "author": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "121813f5f1ac315c8e11046271f7db6de3091c0e",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/121813f5f1ac315c8e11046271f7db6de3091c0e",
+                "html_url": "https://github.com/mojombo/bert/commit/121813f5f1ac315c8e11046271f7db6de3091c0e"
+            }
+        ]
+    },
+    {
+        "sha": "121813f5f1ac315c8e11046271f7db6de3091c0e",
+        "commit": {
+            "author": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-02-09T00:14:51Z"
+            },
+            "committer": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-02-09T00:14:51Z"
+            },
+            "message": "run extconf before make",
+            "tree": {
+                "sha": "460b1ab8f740afc297c41d3f6239a3b51692b7c0",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/460b1ab8f740afc297c41d3f6239a3b51692b7c0"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/121813f5f1ac315c8e11046271f7db6de3091c0e",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/121813f5f1ac315c8e11046271f7db6de3091c0e",
+        "html_url": "https://github.com/mojombo/bert/commit/121813f5f1ac315c8e11046271f7db6de3091c0e",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/121813f5f1ac315c8e11046271f7db6de3091c0e/comments",
+        "author": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "9af551d97a2f8889846f151501212169c58e5e0e",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/9af551d97a2f8889846f151501212169c58e5e0e",
+                "html_url": "https://github.com/mojombo/bert/commit/9af551d97a2f8889846f151501212169c58e5e0e"
+            }
+        ]
+    },
+    {
+        "sha": "9af551d97a2f8889846f151501212169c58e5e0e",
+        "commit": {
+            "author": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-02-08T17:33:46Z"
+            },
+            "committer": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-02-08T17:33:46Z"
+            },
+            "message": "Merge commit '2d9d4bb3b8bc1cc912f19a3ae713e4e7be52b504'",
+            "tree": {
+                "sha": "6fb335e88c66526caaddc653195943b06740c52d",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/6fb335e88c66526caaddc653195943b06740c52d"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/9af551d97a2f8889846f151501212169c58e5e0e",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/9af551d97a2f8889846f151501212169c58e5e0e",
+        "html_url": "https://github.com/mojombo/bert/commit/9af551d97a2f8889846f151501212169c58e5e0e",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/9af551d97a2f8889846f151501212169c58e5e0e/comments",
+        "author": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "d47c778d621636afc3d721f012ef9d9492be9da9",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/d47c778d621636afc3d721f012ef9d9492be9da9",
+                "html_url": "https://github.com/mojombo/bert/commit/d47c778d621636afc3d721f012ef9d9492be9da9"
+            },
+            {
+                "sha": "2d9d4bb3b8bc1cc912f19a3ae713e4e7be52b504",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/2d9d4bb3b8bc1cc912f19a3ae713e4e7be52b504",
+                "html_url": "https://github.com/mojombo/bert/commit/2d9d4bb3b8bc1cc912f19a3ae713e4e7be52b504"
+            }
+        ]
+    },
+    {
+        "sha": "2d9d4bb3b8bc1cc912f19a3ae713e4e7be52b504",
+        "commit": {
+            "author": {
+                "name": "Simon Menke",
+                "email": "simon@mrhenry.be",
+                "date": "2010-01-21T16:29:56Z"
+            },
+            "committer": {
+                "name": "Simon Menke",
+                "email": "simon@mrhenry.be",
+                "date": "2010-01-21T16:29:56Z"
+            },
+            "message": "Don't load rubygems",
+            "tree": {
+                "sha": "fe8a43e8175ce5f15b6423bd6974b9c3d3ad8435",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/fe8a43e8175ce5f15b6423bd6974b9c3d3ad8435"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/2d9d4bb3b8bc1cc912f19a3ae713e4e7be52b504",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/2d9d4bb3b8bc1cc912f19a3ae713e4e7be52b504",
+        "html_url": "https://github.com/mojombo/bert/commit/2d9d4bb3b8bc1cc912f19a3ae713e4e7be52b504",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/2d9d4bb3b8bc1cc912f19a3ae713e4e7be52b504/comments",
+        "author": {
+            "login": "fd",
+            "id": 591,
+            "avatar_url": "https://avatars.githubusercontent.com/u/591?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/fd",
+            "html_url": "https://github.com/fd",
+            "followers_url": "https://api.github.com/users/fd/followers",
+            "following_url": "https://api.github.com/users/fd/following{/other_user}",
+            "gists_url": "https://api.github.com/users/fd/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/fd/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/fd/subscriptions",
+            "organizations_url": "https://api.github.com/users/fd/orgs",
+            "repos_url": "https://api.github.com/users/fd/repos",
+            "events_url": "https://api.github.com/users/fd/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/fd/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "fd",
+            "id": 591,
+            "avatar_url": "https://avatars.githubusercontent.com/u/591?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/fd",
+            "html_url": "https://github.com/fd",
+            "followers_url": "https://api.github.com/users/fd/followers",
+            "following_url": "https://api.github.com/users/fd/following{/other_user}",
+            "gists_url": "https://api.github.com/users/fd/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/fd/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/fd/subscriptions",
+            "organizations_url": "https://api.github.com/users/fd/orgs",
+            "repos_url": "https://api.github.com/users/fd/repos",
+            "events_url": "https://api.github.com/users/fd/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/fd/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "deedbf238bbacb7a70112129c68d30eac1b44c7d",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/deedbf238bbacb7a70112129c68d30eac1b44c7d",
+                "html_url": "https://github.com/mojombo/bert/commit/deedbf238bbacb7a70112129c68d30eac1b44c7d"
+            }
+        ]
+    },
+    {
+        "sha": "d47c778d621636afc3d721f012ef9d9492be9da9",
+        "commit": {
+            "author": {
+                "name": "Julian Schneider",
+                "email": "julian.schneider@zweitag.de",
+                "date": "2010-01-13T21:27:46Z"
+            },
+            "committer": {
+                "name": "Julian Schneider",
+                "email": "julian.schneider@zweitag.de",
+                "date": "2010-01-13T21:27:46Z"
+            },
+            "message": "fix encoding of Bignums with a size of 256 bytes",
+            "tree": {
+                "sha": "2d3cc25eb5d7cea1a6754a4e175ed36609cf0327",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/2d3cc25eb5d7cea1a6754a4e175ed36609cf0327"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/d47c778d621636afc3d721f012ef9d9492be9da9",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/d47c778d621636afc3d721f012ef9d9492be9da9",
+        "html_url": "https://github.com/mojombo/bert/commit/d47c778d621636afc3d721f012ef9d9492be9da9",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/d47c778d621636afc3d721f012ef9d9492be9da9/comments",
+        "author": {
+            "login": "juls",
+            "id": 51707,
+            "avatar_url": "https://avatars.githubusercontent.com/u/51707?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/juls",
+            "html_url": "https://github.com/juls",
+            "followers_url": "https://api.github.com/users/juls/followers",
+            "following_url": "https://api.github.com/users/juls/following{/other_user}",
+            "gists_url": "https://api.github.com/users/juls/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/juls/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/juls/subscriptions",
+            "organizations_url": "https://api.github.com/users/juls/orgs",
+            "repos_url": "https://api.github.com/users/juls/repos",
+            "events_url": "https://api.github.com/users/juls/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/juls/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "juls",
+            "id": 51707,
+            "avatar_url": "https://avatars.githubusercontent.com/u/51707?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/juls",
+            "html_url": "https://github.com/juls",
+            "followers_url": "https://api.github.com/users/juls/followers",
+            "following_url": "https://api.github.com/users/juls/following{/other_user}",
+            "gists_url": "https://api.github.com/users/juls/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/juls/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/juls/subscriptions",
+            "organizations_url": "https://api.github.com/users/juls/orgs",
+            "repos_url": "https://api.github.com/users/juls/repos",
+            "events_url": "https://api.github.com/users/juls/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/juls/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "69789c1598d345982c6f599456ef618ad58df87d",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/69789c1598d345982c6f599456ef618ad58df87d",
+                "html_url": "https://github.com/mojombo/bert/commit/69789c1598d345982c6f599456ef618ad58df87d"
+            }
+        ]
+    },
+    {
+        "sha": "69789c1598d345982c6f599456ef618ad58df87d",
+        "commit": {
+            "author": {
+                "name": "Julian Schneider",
+                "email": "julian.schneider@zweitag.de",
+                "date": "2010-01-13T21:27:20Z"
+            },
+            "committer": {
+                "name": "Julian Schneider",
+                "email": "julian.schneider@zweitag.de",
+                "date": "2010-01-13T21:27:20Z"
+            },
+            "message": "add test for Bignum with a size of 256 bytes",
+            "tree": {
+                "sha": "569ccbf2e63199b8cc7ce8fa9155cd998ed5d0c3",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/569ccbf2e63199b8cc7ce8fa9155cd998ed5d0c3"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/69789c1598d345982c6f599456ef618ad58df87d",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/69789c1598d345982c6f599456ef618ad58df87d",
+        "html_url": "https://github.com/mojombo/bert/commit/69789c1598d345982c6f599456ef618ad58df87d",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/69789c1598d345982c6f599456ef618ad58df87d/comments",
+        "author": {
+            "login": "juls",
+            "id": 51707,
+            "avatar_url": "https://avatars.githubusercontent.com/u/51707?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/juls",
+            "html_url": "https://github.com/juls",
+            "followers_url": "https://api.github.com/users/juls/followers",
+            "following_url": "https://api.github.com/users/juls/following{/other_user}",
+            "gists_url": "https://api.github.com/users/juls/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/juls/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/juls/subscriptions",
+            "organizations_url": "https://api.github.com/users/juls/orgs",
+            "repos_url": "https://api.github.com/users/juls/repos",
+            "events_url": "https://api.github.com/users/juls/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/juls/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "juls",
+            "id": 51707,
+            "avatar_url": "https://avatars.githubusercontent.com/u/51707?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/juls",
+            "html_url": "https://github.com/juls",
+            "followers_url": "https://api.github.com/users/juls/followers",
+            "following_url": "https://api.github.com/users/juls/following{/other_user}",
+            "gists_url": "https://api.github.com/users/juls/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/juls/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/juls/subscriptions",
+            "organizations_url": "https://api.github.com/users/juls/orgs",
+            "repos_url": "https://api.github.com/users/juls/repos",
+            "events_url": "https://api.github.com/users/juls/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/juls/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "deedbf238bbacb7a70112129c68d30eac1b44c7d",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/deedbf238bbacb7a70112129c68d30eac1b44c7d",
+                "html_url": "https://github.com/mojombo/bert/commit/deedbf238bbacb7a70112129c68d30eac1b44c7d"
+            }
+        ]
+    },
+    {
+        "sha": "deedbf238bbacb7a70112129c68d30eac1b44c7d",
+        "commit": {
+            "author": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-01-13T01:01:02Z"
+            },
+            "committer": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-01-13T01:01:02Z"
+            },
+            "message": "Regenerated gemspec for version 1.1.1",
+            "tree": {
+                "sha": "02bd574014c1f84bb96c5f5b38d8615c8072da64",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/02bd574014c1f84bb96c5f5b38d8615c8072da64"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/deedbf238bbacb7a70112129c68d30eac1b44c7d",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/deedbf238bbacb7a70112129c68d30eac1b44c7d",
+        "html_url": "https://github.com/mojombo/bert/commit/deedbf238bbacb7a70112129c68d30eac1b44c7d",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/deedbf238bbacb7a70112129c68d30eac1b44c7d/comments",
+        "author": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "70a4c98160e96b3bf18aa71e19f4820f3bbf64a0",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/70a4c98160e96b3bf18aa71e19f4820f3bbf64a0",
+                "html_url": "https://github.com/mojombo/bert/commit/70a4c98160e96b3bf18aa71e19f4820f3bbf64a0"
+            }
+        ]
+    },
+    {
+        "sha": "70a4c98160e96b3bf18aa71e19f4820f3bbf64a0",
+        "commit": {
+            "author": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-01-13T01:00:54Z"
+            },
+            "committer": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-01-13T01:00:54Z"
+            },
+            "message": "Version bump to 1.1.1",
+            "tree": {
+                "sha": "bd760bd6531031c0fd0be5ebf6545dd637433687",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/bd760bd6531031c0fd0be5ebf6545dd637433687"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/70a4c98160e96b3bf18aa71e19f4820f3bbf64a0",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/70a4c98160e96b3bf18aa71e19f4820f3bbf64a0",
+        "html_url": "https://github.com/mojombo/bert/commit/70a4c98160e96b3bf18aa71e19f4820f3bbf64a0",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/70a4c98160e96b3bf18aa71e19f4820f3bbf64a0/comments",
+        "author": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "cf50f8752df9fa0d1e4b0db3823d650c51dbca85",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/cf50f8752df9fa0d1e4b0db3823d650c51dbca85",
+                "html_url": "https://github.com/mojombo/bert/commit/cf50f8752df9fa0d1e4b0db3823d650c51dbca85"
+            }
+        ]
+    },
+    {
+        "sha": "cf50f8752df9fa0d1e4b0db3823d650c51dbca85",
+        "commit": {
+            "author": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-01-13T01:00:31Z"
+            },
+            "committer": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2010-01-13T01:00:31Z"
+            },
+            "message": "Fix number encoding problem on 32 bit arch",
+            "tree": {
+                "sha": "1b23eb9948351626b9e1904d7c54f789fc47d7ea",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/1b23eb9948351626b9e1904d7c54f789fc47d7ea"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/cf50f8752df9fa0d1e4b0db3823d650c51dbca85",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/cf50f8752df9fa0d1e4b0db3823d650c51dbca85",
+        "html_url": "https://github.com/mojombo/bert/commit/cf50f8752df9fa0d1e4b0db3823d650c51dbca85",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/cf50f8752df9fa0d1e4b0db3823d650c51dbca85/comments",
+        "author": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "8df4e3d81d98fa5ec3e9200c74d0021eee66c31e",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/8df4e3d81d98fa5ec3e9200c74d0021eee66c31e",
+                "html_url": "https://github.com/mojombo/bert/commit/8df4e3d81d98fa5ec3e9200c74d0021eee66c31e"
+            }
+        ]
+    },
+    {
+        "sha": "8df4e3d81d98fa5ec3e9200c74d0021eee66c31e",
+        "commit": {
+            "author": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2009-11-23T19:14:31Z"
+            },
+            "committer": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2009-11-23T19:14:31Z"
+            },
+            "message": "require stringio",
+            "tree": {
+                "sha": "92562dd9e103a3184c279d34782a8c635438d9b5",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/92562dd9e103a3184c279d34782a8c635438d9b5"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/8df4e3d81d98fa5ec3e9200c74d0021eee66c31e",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/8df4e3d81d98fa5ec3e9200c74d0021eee66c31e",
+        "html_url": "https://github.com/mojombo/bert/commit/8df4e3d81d98fa5ec3e9200c74d0021eee66c31e",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/8df4e3d81d98fa5ec3e9200c74d0021eee66c31e/comments",
+        "author": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "ce6d78b54a254ad5fca722314bf59be314975f3a",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/ce6d78b54a254ad5fca722314bf59be314975f3a",
+                "html_url": "https://github.com/mojombo/bert/commit/ce6d78b54a254ad5fca722314bf59be314975f3a"
+            }
+        ]
+    },
+    {
+        "sha": "ce6d78b54a254ad5fca722314bf59be314975f3a",
+        "commit": {
+            "author": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2009-10-28T18:58:15Z"
+            },
+            "committer": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2009-10-28T18:58:15Z"
+            },
+            "message": "Regenerated gemspec for version 1.1.0",
+            "tree": {
+                "sha": "b9b2ba5e6039693a415671f64dd241866a2ee1d1",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/b9b2ba5e6039693a415671f64dd241866a2ee1d1"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/ce6d78b54a254ad5fca722314bf59be314975f3a",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/ce6d78b54a254ad5fca722314bf59be314975f3a",
+        "html_url": "https://github.com/mojombo/bert/commit/ce6d78b54a254ad5fca722314bf59be314975f3a",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/ce6d78b54a254ad5fca722314bf59be314975f3a/comments",
+        "author": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "5902f9430e0f47044750b1d05c7435f793bf12f2",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/5902f9430e0f47044750b1d05c7435f793bf12f2",
+                "html_url": "https://github.com/mojombo/bert/commit/5902f9430e0f47044750b1d05c7435f793bf12f2"
+            }
+        ]
+    },
+    {
+        "sha": "5902f9430e0f47044750b1d05c7435f793bf12f2",
+        "commit": {
+            "author": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2009-10-28T18:58:06Z"
+            },
+            "committer": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2009-10-28T18:58:06Z"
+            },
+            "message": "Version bump to 1.1.0",
+            "tree": {
+                "sha": "ecffcd60b3f5d52d916e96d985051de3ebaa5f7d",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/ecffcd60b3f5d52d916e96d985051de3ebaa5f7d"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/5902f9430e0f47044750b1d05c7435f793bf12f2",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/5902f9430e0f47044750b1d05c7435f793bf12f2",
+        "html_url": "https://github.com/mojombo/bert/commit/5902f9430e0f47044750b1d05c7435f793bf12f2",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/5902f9430e0f47044750b1d05c7435f793bf12f2/comments",
+        "author": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "9f95f52b692f82200b274c28de6ed498dca6f776",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/9f95f52b692f82200b274c28de6ed498dca6f776",
+                "html_url": "https://github.com/mojombo/bert/commit/9f95f52b692f82200b274c28de6ed498dca6f776"
+            }
+        ]
+    },
+    {
+        "sha": "9f95f52b692f82200b274c28de6ed498dca6f776",
+        "commit": {
+            "author": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2009-10-28T18:58:01Z"
+            },
+            "committer": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2009-10-28T18:58:01Z"
+            },
+            "message": "update history for 1.1.0 release",
+            "tree": {
+                "sha": "5f21cf84bd68617267a91a2bf158432e283b4436",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/5f21cf84bd68617267a91a2bf158432e283b4436"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/9f95f52b692f82200b274c28de6ed498dca6f776",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/9f95f52b692f82200b274c28de6ed498dca6f776",
+        "html_url": "https://github.com/mojombo/bert/commit/9f95f52b692f82200b274c28de6ed498dca6f776",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/9f95f52b692f82200b274c28de6ed498dca6f776/comments",
+        "author": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "843a50c1a5f26f809f66e462b8299da75b43bc0d",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/843a50c1a5f26f809f66e462b8299da75b43bc0d",
+                "html_url": "https://github.com/mojombo/bert/commit/843a50c1a5f26f809f66e462b8299da75b43bc0d"
+            }
+        ]
+    },
+    {
+        "sha": "843a50c1a5f26f809f66e462b8299da75b43bc0d",
+        "commit": {
+            "author": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2009-10-28T18:52:37Z"
+            },
+            "committer": {
+                "name": "Tom Preston-Werner",
+                "email": "tom@mojombo.com",
+                "date": "2009-10-28T18:53:35Z"
+            },
+            "message": "fix bignum encoding. closes gh-1.",
+            "tree": {
+                "sha": "ccd3ce7773008b6a5c7cf1d50b172c172d0eb9f9",
+                "url": "https://api.github.com/repos/mojombo/bert/git/trees/ccd3ce7773008b6a5c7cf1d50b172c172d0eb9f9"
+            },
+            "url": "https://api.github.com/repos/mojombo/bert/git/commits/843a50c1a5f26f809f66e462b8299da75b43bc0d",
+            "comment_count": 0
+        },
+        "url": "https://api.github.com/repos/mojombo/bert/commits/843a50c1a5f26f809f66e462b8299da75b43bc0d",
+        "html_url": "https://github.com/mojombo/bert/commit/843a50c1a5f26f809f66e462b8299da75b43bc0d",
+        "comments_url": "https://api.github.com/repos/mojombo/bert/commits/843a50c1a5f26f809f66e462b8299da75b43bc0d/comments",
+        "author": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "mojombo",
+            "id": 1,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mojombo",
+            "html_url": "https://github.com/mojombo",
+            "followers_url": "https://api.github.com/users/mojombo/followers",
+            "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+            "organizations_url": "https://api.github.com/users/mojombo/orgs",
+            "repos_url": "https://api.github.com/users/mojombo/repos",
+            "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mojombo/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "9529687d6c66a7ffbe81213ac99a543f60beab87",
+                "url": "https://api.github.com/repos/mojombo/bert/commits/9529687d6c66a7ffbe81213ac99a543f60beab87",
+                "html_url": "https://github.com/mojombo/bert/commit/9529687d6c66a7ffbe81213ac99a543f60beab87"
+            }
+        ]
+    }
+]
