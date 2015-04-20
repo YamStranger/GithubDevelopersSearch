@@ -1,10 +1,15 @@
 
 apply plugin: 'java'
+version = '1.0'
+libsDirName = 'lib'
+sourceCompatibility = 1.7
+targetCompatibility = 1.7
 
 task "create-dirs" << {
    sourceSets*.java.srcDirs*.each { it.mkdirs() }
    sourceSets*.resources.srcDirs*.each { it.mkdirs() }
 }
+
 
 
 /*
@@ -41,14 +46,59 @@ dependencies {
   */
    compile('com.jcabi:jcabi-github:0.22')
    compile('com.jcabi:jcabi-github:0.22:sources')
-   
+   compile('org.testng:testng:6.8.21:sources')
+   compile('org.testng:testng:6.8.21')
+   compile('org.mockito:mockito-core:2.0.5-beta')
+   compile('org.mockito:mockito-core:2.0.5-beta:sources')
+   compile('ch.qos.logback:logback-classic:1.1.3:sources')
+   compile('ch.qos.logback:logback-classic:1.1.3')
+   compile('ch.qos.logback:logback-classic:1.1.3')
+   compile('com.jcabi:jcabi-http:1.10.2')
+   compile('com.jcabi:jcabi-http:1.10.2:sources')
+   compile('com.opencsv:opencsv:3.3:sources')
+   compile('com.opencsv:opencsv:3.3')
+   compile('com.jcabi:jcabi-aspects:0.21.1')
+   compile('javax.validation:validation-api:1.1.0.Final')
+   compile('org.apache.bval:bval-jsr303:0.5')
+  
   //compile fileTree(dir: project.projectDir.path.concat('git-dependencies/jcabi-github/target'), includes: ['*.jar'])
 }
 
+test {
+    useTestNG {
+        excludeGroups 'integrationTests'
+        //includeGroups 'unitTests'
+    }
+}
+	
 task copyDeps(type: Copy) {
   from configurations.runtime
   into project.projectDir.path+'/lib'
 }
+
 compileJava {
-	dependsOn 'copyDeps'
+	dependsOn ('copyDeps')
+}
+
+jar {
+    manifest {
+        attributes 'Implementation-Title': 'Github Developers Search',
+                   'Implementation-Version': version,
+				   'Main-Class': 'com.search.Main'
+				    //attributes(
+					//    'Class-Path': configurations.compile.collect { it.getName() }.join(' '))
+    }
+}
+
+
+//create a single Jar with all dependencies
+task buildAllInOne(type: Jar) {
+	manifest {
+        attributes 'Implementation-Title': 'Github Developers Search',
+        	'Implementation-Version': version,
+        	'Main-Class': 'com.search.Main'
+    }
+    baseName = project.name + '-all'
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
 }
